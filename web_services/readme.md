@@ -11,9 +11,9 @@
 ### Example to retrieve followers of a github user using volley
 
 1. Add volley library
-![](https://)
+![](https://github.com/dcharrez/Android-programming/blob/master/web_services/imgs/ws_1.png)
 2. Add permission in the manifest
-![](https://)
+![](https://github.com/dcharrez/Android-programming/blob/master/web_services/imgs/ws_2.png)
 3. Add a button to retrieve followers
 ```
     <Button
