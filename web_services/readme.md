@@ -70,3 +70,6 @@
         requestQueue.add(arrReq);
     }
 ```
+
+#### More info
+https://github.com/dcharrez/Android-programming/edit/master/web_services/readme.md
